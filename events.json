@@ -130,5 +130,49 @@
     "room": "310/306",
     "number": 8,
     "end_number": 9
+  },
+  "cea789a7b5aa3b6d0b66d3aac692@vgtk-schedule-bot": {
+    "uid": "cea789a7b5aa3b6d0b66d3aac692@vgtk-schedule-bot",
+    "date": "2026-11-16",
+    "start": "09:00",
+    "end": "12:30",
+    "subject": "Инструменты разработки",
+    "group": "ВР-41",
+    "room": "310/306",
+    "number": 1,
+    "end_number": 4
+  },
+  "76177ad4918a7ee8ed5b7bf8ba05@vgtk-schedule-bot": {
+    "uid": "76177ad4918a7ee8ed5b7bf8ba05@vgtk-schedule-bot",
+    "date": "2026-11-16",
+    "start": "13:35",
+    "end": "15:15",
+    "subject": "Информатика",
+    "group": "ПМЭ-18",
+    "room": "306/310",
+    "number": 6,
+    "end_number": 7
+  },
+  "52f7588db4b67ee8a1c4d794109f@vgtk-schedule-bot": {
+    "uid": "52f7588db4b67ee8a1c4d794109f@vgtk-schedule-bot",
+    "date": "2026-11-16",
+    "start": "15:25",
+    "end": "16:10",
+    "subject": "Информатика",
+    "group": "ПСР-11",
+    "room": "306/310",
+    "number": 8,
+    "end_number": 8
+  },
+  "0bcf03dda3438ff362cb537d5211@vgtk-schedule-bot": {
+    "uid": "0bcf03dda3438ff362cb537d5211@vgtk-schedule-bot",
+    "date": "2026-11-16",
+    "start": "16:20",
+    "end": "17:05",
+    "subject": "Кур. час",
+    "group": "ПСР-11",
+    "room": "310",
+    "number": 9,
+    "end_number": 9
   }
 }
