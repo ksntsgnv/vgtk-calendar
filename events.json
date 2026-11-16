@@ -174,5 +174,60 @@
     "room": "310",
     "number": 9,
     "end_number": 9
+  },
+  "e8d95c27365e82900c5457654643@vgtk-schedule-bot": {
+    "uid": "e8d95c27365e82900c5457654643@vgtk-schedule-bot",
+    "date": "2026-11-17",
+    "start": "09:00",
+    "end": "10:40",
+    "subject": "Инструменты разработки",
+    "group": "ВР-41",
+    "room": "310",
+    "number": 1,
+    "end_number": 2
+  },
+  "a460a888d7ee69d377e9dc1209a6@vgtk-schedule-bot": {
+    "uid": "a460a888d7ee69d377e9dc1209a6@vgtk-schedule-bot",
+    "date": "2026-11-17",
+    "start": "10:50",
+    "end": "12:30",
+    "subject": "Инструменты разработки",
+    "group": "ВР-41",
+    "room": "310/306",
+    "number": 3,
+    "end_number": 4
+  },
+  "3c4d3a9dd49cb137af88ec4c7489@vgtk-schedule-bot": {
+    "uid": "3c4d3a9dd49cb137af88ec4c7489@vgtk-schedule-bot",
+    "date": "2026-11-17",
+    "start": "13:35",
+    "end": "14:20",
+    "subject": "Информатика",
+    "group": "ПМР-19",
+    "room": "306/310",
+    "number": 6,
+    "end_number": 6
+  },
+  "331c8d09d0e76e35308fa279a5de@vgtk-schedule-bot": {
+    "uid": "331c8d09d0e76e35308fa279a5de@vgtk-schedule-bot",
+    "date": "2026-11-17",
+    "start": "14:30",
+    "end": "15:15",
+    "subject": "Информатика",
+    "group": "ПСМ-113",
+    "room": "306/310",
+    "number": 7,
+    "end_number": 7
+  },
+  "f7147b9d441e213a8e0a5d8481a9@vgtk-schedule-bot": {
+    "uid": "f7147b9d441e213a8e0a5d8481a9@vgtk-schedule-bot",
+    "date": "2026-11-17",
+    "start": "15:25",
+    "end": "17:05",
+    "subject": "Информатика",
+    "group": "ПФО-16",
+    "room": "306/310",
+    "number": 8,
+    "end_number": 9
   }
 }
