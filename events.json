@@ -460,5 +460,38 @@
     "room": "310/306",
     "number": 8,
     "end_number": 9
+  },
+  "122e564b69756e9c78991fe3bce8@vgtk-schedule-bot": {
+    "uid": "122e564b69756e9c78991fe3bce8@vgtk-schedule-bot",
+    "date": "2026-11-24",
+    "start": "09:00",
+    "end": "10:40",
+    "subject": "Информатика",
+    "group": "ПСМ-13",
+    "room": "306/306",
+    "number": 1,
+    "end_number": 2
+  },
+  "68311ba7013503dd1289af3dfb0c@vgtk-schedule-bot": {
+    "uid": "68311ba7013503dd1289af3dfb0c@vgtk-schedule-bot",
+    "date": "2026-11-24",
+    "start": "10:50",
+    "end": "12:30",
+    "subject": "Архитектура ЭВМ",
+    "group": "ВС-41",
+    "room": "306",
+    "number": 3,
+    "end_number": 4
+  },
+  "43e1cd4831da2d99cbcb2fecac7d@vgtk-schedule-bot": {
+    "uid": "43e1cd4831da2d99cbcb2fecac7d@vgtk-schedule-bot",
+    "date": "2026-11-24",
+    "start": "12:40",
+    "end": "14:20",
+    "subject": "Инструменты разработки",
+    "group": "ВР-41",
+    "room": "306/306",
+    "number": 5,
+    "end_number": 6
   }
 }
