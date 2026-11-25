@@ -537,5 +537,49 @@
     "room": "306/310",
     "number": 9,
     "end_number": 9
+  },
+  "4623ee22019d9291ba5c437ecc4d@vgtk-schedule-bot": {
+    "uid": "4623ee22019d9291ba5c437ecc4d@vgtk-schedule-bot",
+    "date": "2026-11-26",
+    "start": "09:00",
+    "end": "10:40",
+    "subject": "Инструменты разработки веб-ресурсов",
+    "group": "ВР-31",
+    "room": "310",
+    "number": 1,
+    "end_number": 2
+  },
+  "b2f843a8aeab571215782a1ed751@vgtk-schedule-bot": {
+    "uid": "b2f843a8aeab571215782a1ed751@vgtk-schedule-bot",
+    "date": "2026-11-26",
+    "start": "10:50",
+    "end": "12:30",
+    "subject": "Тестирование веб-приложений",
+    "group": "ВР-41",
+    "room": "310/306",
+    "number": 3,
+    "end_number": 4
+  },
+  "c6a3db7d04d326275cbc660566e5@vgtk-schedule-bot": {
+    "uid": "c6a3db7d04d326275cbc660566e5@vgtk-schedule-bot",
+    "date": "2026-11-26",
+    "start": "12:40",
+    "end": "14:20",
+    "subject": "Информатика",
+    "group": "ПФО-16",
+    "room": "306/310",
+    "number": 5,
+    "end_number": 6
+  },
+  "18605fad0e8b9f134460ce7587e5@vgtk-schedule-bot": {
+    "uid": "18605fad0e8b9f134460ce7587e5@vgtk-schedule-bot",
+    "date": "2026-11-26",
+    "start": "15:25",
+    "end": "17:05",
+    "subject": "Инструменты разработки",
+    "group": "ВР-41",
+    "room": "310",
+    "number": 8,
+    "end_number": 9
   }
 }
